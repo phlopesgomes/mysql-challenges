@@ -328,7 +328,8 @@ SELECT * FROM tabelaclientes WHERE nome_cliente > 'C';
 -- Seleciona todos os clientes cujo nome vem depois da letra 'C' no alfabeto.
 
 -- Outro exemplo de uso dos operadores com maior e menor em texto:
-SELECT * FROM tabelaclientes WHERE nome_cliente < 'M'; -- Seleciona todos os clientes cujo nome vem antes da letra 'M' no alfabeto.
+SELECT * FROM tabelaclientes WHERE nome_cliente < 'M'; 
+-- Seleciona todos os clientes cujo nome vem antes da letra 'M' no alfabeto.
 
 --- Para utilizar com datas:
 SELECT * FROM pedidos WHERE data_pedido > '2023-01-01'; 
