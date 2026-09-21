@@ -1,6 +1,6 @@
-# Estudos de SQL - Ciência de Dados para Negócios 📊
+# Estudos de MySQL - Ciência de Dados para Negócios 📊
 
-Este repositório é dedicado ao armazenamento dos meus estudos e exercícios práticos de SQL. Aqui documento minha evolução técnica, focando na aplicação de banco de dados para a tomada de decisão e análise de negócios.
+Este repositório é dedicado ao armazenamento dos meus estudos e exercícios práticos de MySQL. Aqui documento minha evolução técnica, focando na aplicação de banco de dados para a tomada de decisão e análise de negócios.
 
 ## 📖 Conteúdo do Repositório
 
@@ -14,14 +14,3 @@ Atualmente, o foco está na manipulação avançada de SGBDs (MySQL) e na estrut
     - Implementação de **Subqueries** (consultas dentro de consultas) para filtros complexos.
     - Criação de **VIEWS** (Vistas) para simplificar relatórios e automatizar consultas frequentes.
 - **Data Cleaning (Higiene de Dados):** Uso de funções nativas do MySQL para tratamento de strings e conversão de tipos de dados.
-
-## 💼 Aplicação no Mundo Real
-Utilizo os conceitos aqui estudados para otimizar processos na **FAGO Corretora**, aplicando lógica de programação SQL para garantir a integridade de apólices e o saneamento de bases de dados de clientes.
-
-## ⚽ Próximos Passos
-- Implementação de funções complexas de Data e Hora para análise de churn (cancelamento).
-- Prática de lógica voltada para o mercado financeiro e seguros.
-- Projeto de análise de estatísticas de futebol (Scouting Data).
-
----
-*Nota: Também estou utilizando este repositório para praticar termos técnicos em inglês, visando futuras oportunidades no mercado de tecnologia.*
