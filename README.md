@@ -4,7 +4,7 @@ Este repositório é dedicado ao armazenamento dos meus estudos e exercícios pr
 
 ## 📖 Conteúdo do Repositório
 
-Atualmente, o foco está na manipulação avançada de SGBDs (MySQL) e na estruturação de consultas inteligentes para auditoria e análise:
+Atualmente, o foco está na manipulação avançada de SGBDs (SQL) e na estruturação de consultas inteligentes para auditoria e análise:
 
 - **Definição de Dados (DDL):** Criação de esquemas e tabelas (`CREATE TABLE`) com foco em integridade referencial.
 - **Consultas e Filtros Avançados:** - Uso de operadores lógicos e condicionais (`BETWEEN`, `IN`, `LIKE`).
