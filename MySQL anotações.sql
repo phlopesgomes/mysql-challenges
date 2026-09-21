@@ -1,4 +1,4 @@
----- ALGORITMOS E ESTRUTURA DE DADOS (SQL);
+---- ALGORITMOS E ESTRUTURA DE DADOS (MySQL);
 
 --- SGBD (Sistema de Gerenciamento de Banco de Dados);
 -- Um SGBD é um software que permite criar, gerenciar e manipular bancos de dados.
